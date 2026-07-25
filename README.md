@@ -1,30 +1,4 @@
-<p align="center">
-  <img src="https://innovation.iamj.ai/assets/images/iamj_logo.png" width="220" alt="I am J logo">
-</p>
 
-<h1 align="center">I am J Platform</h1>
-
-<h3 align="center">A Unified AI Platform for Knowledge Access, Real-World Intelligence, and Institutional Deployment</h3>
-
-<p align="center">
-  <strong>I am J Corporation is building a human-centered artificial intelligence platform that unifies consumer experiences, multilingual interaction, contextual intelligence, responsible AI governance, and deployable enterprise infrastructure into a single coordinated ecosystem for global knowledge access.</strong>
-</p>
-
-<p align="center">
-  <strong>Public Repository:</strong> <a href="https://github.com/iamj-ai/iamj-public">github.com/iamj-ai/iamj-public</a><br>
-  <strong>Technical Documentation:</strong> <a href="https://innovation.iamj.ai">innovation.iamj.ai</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-I%20am%20J-blue" alt="Platform: I am J">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange" alt="AWS Cloud">
-  <img src="https://img.shields.io/badge/React%20Native-Mobile-61dafb" alt="React Native Mobile">
-  <img src="https://img.shields.io/badge/Expo-SDK-black" alt="Expo SDK">
-  <img src="https://img.shields.io/badge/Languages-21-success" alt="21 Languages">
-  <img src="https://img.shields.io/badge/Repository-Public-success" alt="Public Repository">
-</p>
-
----
 
 # Vision & Mission
 
