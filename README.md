@@ -1,5 +1,3 @@
-
-
 # Vision & Mission
 
 Our vision is to build the world's most accessible artificial intelligence platform for human knowledge.
