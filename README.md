@@ -1,7 +1,6 @@
-```{=html}
 <p align="center">
-```
-`<img src="https://innovation.iamj.ai/assets/images/iamj_logo.png" width="220">`{=html}
+  <img src="https://innovation.iamj.ai/assets/images/iamj_logo.png" width="220">
+</p>
 
 # I am J Platform
 
