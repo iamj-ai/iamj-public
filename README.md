@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Expo-SDK-black" alt="Expo SDK">
   <img src="https://img.shields.io/badge/Languages-21-success" alt="21 Languages">
   <img src="https://img.shields.io/badge/Repository-Public-success" alt="Public Repository">
+  <img src="https://img.shields.io/badge/Community-Campaign-6f42c1" alt="Community Campaign">
 </p>
 
 
@@ -31,6 +32,19 @@ The I am J Platform unifies conversational AI, multimodal intelligence, secure c
 By combining human-centered design with responsible artificial intelligence, we are creating an intelligent infrastructure where knowledge becomes universally accessible across languages, devices, and environments.
 
 We believe AI should not exist as isolated tools, but as a trusted layer of intelligence that empowers people, strengthens institutions, accelerates discovery, and expands global access to knowledge.
+
+---
+
+# Community Campaign
+
+I am J is currently conducting a **90-Day Community Campaign** to help accelerate the next phase of platform development.
+
+Community support contributes to expanding multilingual knowledge access, advancing the Android release, strengthening enterprise capabilities, and enabling future deployments for educational, humanitarian, and institutional use—especially where conventional infrastructure may be unavailable, unreliable, or insufficient.
+
+Financial contributions are one way to participate, but sharing the project with people and organizations aligned with responsible AI, education, accessibility, humanitarian technology, and global knowledge access is equally valuable.
+
+**Learn more or support the mission:**  
+https://innovation.iamj.ai
 
 ---
 
@@ -74,6 +88,7 @@ https://innovation.iamj.ai/technology.html
 - Multilingual by Design
 - Deployable Intelligence
 - Institutional Scale
+- Community-Driven Innovation
 
 ---
 
@@ -89,19 +104,29 @@ https://innovation.iamj.ai/technology.html
 ---
 
 # About This Repository
-
+  
 This public repository contains documentation, architecture overviews, research, responsible AI resources, and developer information for the I am J platform.
 
 Proprietary source code, production infrastructure, cloud configuration, and internal implementation remain private.
 
 ---
-
+ 
 # Public Resources
 
 - **Website:** https://www.iamj.ai
 - **Innovation Center:** https://innovation.iamj.ai
 - **Apple App Store:** https://apps.apple.com/app/id6753019486
 - **Responsible AI Documentation:** https://innovation.iamj.ai/assets/policies/responsible_ai/index.html
+
+---
+
+# Support the Mission
+
+If you believe trusted, multilingual, human-centered AI should be accessible to more communities worldwide, consider supporting the current Community Campaign or sharing the project with others.
+
+Every contribution and every share helps accelerate new capabilities and expand global knowledge access.
+
+**Campaign information:** https://innovation.iamj.ai
 
 ---
 
@@ -121,6 +146,6 @@ Proprietary source code, production infrastructure, cloud configuration, and int
 
 Building intelligent infrastructure that connects people, organizations, and institutions through responsible artificial intelligence.
 
-© 2026 I am J Corporation • Public Documentation Repository.
+© 2026 I am J Corporation • Public documentation and collaboration repository for the I am J Platform.
 
 </div>
